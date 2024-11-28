@@ -5,7 +5,7 @@ Description: This is our index page.
 
 Home page
 ==========================
-![Profile Picture](portfolio/assets/img/silhouette.png)
+![Profile Picture](../assets/img/silhouette.png)
 
 Mitt namn är Neo, och jag föddes på Filippinerna. Vid 11 års ålder flyttade jag till Sverige, där min fascination för datorer och spelkonsoler började. Under uppväxten hade min familj en gammal Windows Vista-dator, som jag endast kunde använda en begränsad tid varje dag.
 
